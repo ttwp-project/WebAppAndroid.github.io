@@ -164,8 +164,11 @@ html.innerHTML = ` <header>
             <li><a href="https://notepad-plus-plus.org/">Notepad++ для компьютера</a></li><br>
             <li><a href="https://acode.foxdebug.com/"> Acode для смартфонов на базе андройд</a></li><br>
         </ul>
-
-
+        <ul>
+       Примеры:
+        <li><a href ="./IndexOf/index-of.html">Перейти на страницу с примерами...</a></li>
+        
+        </ul>
     </section>
     <footer>
       <h2>Навигация</h2>
