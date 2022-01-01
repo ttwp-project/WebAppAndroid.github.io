@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Html-Css-Js-Node/Html-Css-Js-Node** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**berlinandrew0784/berlinandrew0784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
